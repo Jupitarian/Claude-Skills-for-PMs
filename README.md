@@ -1,6 +1,6 @@
 # Claude Skills for PMs
 
-A collection of Claude Code skills built during the [CC4PMs Mastery Course](https://cc4pms.com).
+A collection of Claude Code skills for reasearching. Copied from Carl Velloti's work. 
 
 These are slash commands that run inside Claude Code to help PMs move faster on research, interviews, pitches, and more.
 
