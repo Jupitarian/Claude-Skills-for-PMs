@@ -1,8 +1,8 @@
 # Claude Skills for PMs
 
-A collection of Claude Code skills for reasearching. Copied from Carl Velloti's work. 
+A collection of Claude Code skills for PMs.
 
-These are slash commands that run inside Claude Code to help PMs move faster on research, interviews, pitches, and more.
+These are slash commands that run inside Claude Code to help PMs move faster on research, interviews, pitches, code exploration etc
 
 ## Skills
 
@@ -12,6 +12,7 @@ These are slash commands that run inside Claude Code to help PMs move faster on 
 | [Research Plan](skills/research-plan/SKILL.md) | `/research-plan` | Compiles assumptions, instruments, and decision criteria into a stakeholder-ready research plan |
 | [Mom Test Filter](skills/mom-test-filter/SKILL.md) | `/mom-test-filter` | Reviews interview questions against Mom Test principles and flags violations |
 | [Research Design](skills/research-design/SKILL.md) | `/research-design` | Full research design pipeline — from vague strategic prompt to stakeholder-ready plan |
+| [PM Codebase Explorer](skills/pm-codebase-explorer/SKILL.md) | `/pm-codebase-explorer` | Helps PMs explore a codebase — get oriented, find features, size changes, and understand what's actually shipped |
 
 ## Usage
 
