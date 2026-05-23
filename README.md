@@ -2,7 +2,7 @@
 
 A collection of Claude Code skills for PMs.
 
-These are slash commands that run inside Claude Code to help PMs move faster on research, interviews, pitches, and more.
+These are slash commands that run inside Claude Code to help PMs move faster on research, interviews, pitches, code exploration etc
 
 ## Skills
 
